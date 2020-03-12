@@ -1,0 +1,1 @@
+console.log("This is a clean start for your typescript journey.")
